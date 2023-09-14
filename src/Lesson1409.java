@@ -13,5 +13,9 @@ public class Lesson1409 {
         String name = scanner.nextLine();
         System.out.println("Hello," + name + "!");
         System.out.println("Today is a nice weather!");
+        System.out.println("Name your age:");
+        String age = scanner.nextLine();
+        System.out.println("Ohho , only " +age+ ",you are still soo young!");
+
     }
 }
