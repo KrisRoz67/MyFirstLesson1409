@@ -16,6 +16,6 @@ public class Lesson1409 {
         System.out.println("Please name your age :");
         String age = scanner.nextLine();
         System.out.println("Ohho , only " +age+ ",you are still soo young!");
-        System.out.println("Have a nice day,"+name+"!");
+        System.out.println("Have a nice day," + name + "!");
     }
 }
